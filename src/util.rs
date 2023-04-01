@@ -1,5 +1,4 @@
-//! This module contains a collection of various tools to use to manipulate
-//! and control messages and data associated with raft.
+//! This module contains a collection of various tools to use to manipulate and control messages and data associated with raft.
 
 
 use std::fmt::Write;
