@@ -13,6 +13,7 @@ use crate::{
 use getset::Getters;
 use raft_proto::prelude::ConfState;
 
+
 /// Conf reflects the configuration tracked in a ProgressTracker.
 #[derive(Clone, Debug, Default, PartialEq, Getters)]
 pub struct Configuration {
